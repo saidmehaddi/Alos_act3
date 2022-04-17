@@ -48,7 +48,7 @@ yarn watch
 
 ### v1
 
-The first version only queries podcasts and hosts.
+The first version only queries memes and hosts.
 
 ### v2
 
